@@ -20,5 +20,7 @@
 <div>
   <a href = "mailto:vadositi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/erivaldo-capitulino-b05b2860/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <hr>
+  
   ![Snake animation](https://github.com/ErivaldoCapitulino/ErivaldoCapitulino/blob/output/github-contribution-grid-snake.svg)
 </div>
