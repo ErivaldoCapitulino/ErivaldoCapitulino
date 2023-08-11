@@ -1,6 +1,10 @@
-## Hi, I'm Erivaldo Capitulino! 😎
+## Olá, me Erivaldo Capitulino! 😎
 
-Hello, my name is Erivaldo I'm 38 years old, married and I have a son, I'm passionate about programming and what it provides, the fact of having a problem to be solved and analyzing the best way to actually solve the problem delights me. I have already worked as an IT technician, where I was able to perform activities such as customer service, support on windows servers, support for antivirus servers (kaspersky), N1 service on firewall (sonicwall), currently I work as an IT Analyst with activities focused on infrastructure and network, deploying and providing support to information systems and technological solutions, defining requirements and specifying their architecture. Installing and customizing software, administering systems and configuring network security procedures. I'm currently training myself to be a great fullstack developer, I believe that a person's initiative is what makes them leave where they are, so I do my best to get what I want.
+Profissional de Tecnologia da Informação (TI). Atualmente, atuo como Analista de TI e estou me capacitando na área de desenvolvimento de sistemas.
+
+Ao longo da minha carreira, adquiri habilidades em suporte técnico, resolução de problemas e manutenção de sistemas de TI. Tenho experiência em lidar com uma variedade de questões relacionadas a hardware, software e redes. Além disso, estou sempre em busca de novos conhecimentos e me aprimorando em desenvolvimento, adquirindo competências em linguagens de programação como Java, JavaScript, C#, entre outras.
+
+Sou apaixonado por tecnologia e me mantenho constantemente atualizado sobre as últimas tendências e avanços do setor. Tenho habilidade em trabalhar em equipe e gosto de enfrentar desafios.
 
 
 <div align="center">
