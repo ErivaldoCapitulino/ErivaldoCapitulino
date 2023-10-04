@@ -1,8 +1,8 @@
-## Olá, me Erivaldo Capitulino! 😎
+## Olá, seja bem vindo(a)! 😎
 
-Profissional de Tecnologia da Informação (TI). Atualmente, atuo como Analista de TI e estou me capacitando na área de desenvolvimento de sistemas.
+Sou um profissional de Tecnologia da Informação (TI). Atualmente, atuo como Analista de TI e estou me capacitando na área de desenvolvimento de sistemas.
 
-Ao longo da minha carreira, adquiri habilidades em suporte técnico, resolução de problemas e manutenção de sistemas de TI. Tenho experiência em lidar com uma variedade de questões relacionadas a hardware, software e redes. Além disso, estou sempre em busca de novos conhecimentos e me aprimorando em desenvolvimento, adquirindo competências em linguagens de programação como Java, JavaScript, C#, entre outras.
+Ao longo da minha carreira, adquiri habilidades em suporte técnico, resolução de problemas e manutenção de sistemas de TI. Tenho experiência em lidar com uma variedade de questões relacionadas a hardware, software e redes. Além disso, estou sempre em busca de novos conhecimentos e me aprimorando no desenvolvimento de softwares, adquirindo competências em linguagens de programação como Java, JavaScript, C#, entre outras.
 
 Sou apaixonado por tecnologia e me mantenho constantemente atualizado sobre as últimas tendências e avanços do setor. Tenho habilidade em trabalhar em equipe e gosto de enfrentar desafios.
 
